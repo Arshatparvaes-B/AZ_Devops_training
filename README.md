@@ -1,2 +1,2 @@
 # AZ_Devops_training
-sample rep
+sample repo
